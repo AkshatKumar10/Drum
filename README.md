@@ -21,6 +21,4 @@ You can view a live demo of this Drum Kit website [Drum Kit](https://akshatkumar
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
 
-##
 
-Replace "your-username" with your actual GitHub username and customize any other details as necessary. Additionally, you may want to include screenshots or modify the sections based on your project's specific features and requirements.
